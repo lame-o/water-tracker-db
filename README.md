@@ -1,16 +1,22 @@
 # Water Tracker with Supabase Auth
 
-A clean, modern web application that demonstrates user authentication and data management using Supabase. Users can track their daily water intake with a beautiful, responsive interface.
-
-![Water Tracker Demo](screenshot.png)
+A clean, modern web application for tracking your daily water intake. Try the live demo at [your-vercel-url-here]!
 
 ## Features
 
-- 🔐 User Authentication (Sign up, Sign in, Sign out)
-- 💧 Daily Water Intake Tracking
+- 🔐 Secure User Authentication
+- 💧 Track Your Daily Water Intake
 - 📊 Real-time Updates
 - 🎨 Modern, Responsive UI
-- 🔒 Row Level Security with Supabase
+- 🔒 Private Data Storage
+
+## Try It Out!
+
+1. Visit [your-vercel-url-here]
+2. Create an account or sign in
+3. Start tracking your water intake!
+
+Your data is private and secure - each user can only see and manage their own water intake records.
 
 ## Live Demo
 
