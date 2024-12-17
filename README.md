@@ -1,6 +1,6 @@
 # Water Tracker with Supabase Auth
 
-A clean, modern web application for tracking your daily water intake. Try the live demo at [your-vercel-url-here]!
+A clean, modern web application for tracking your daily water intake. Try the live demo at [https://water-tracker-db.vercel.app/]!
 
 ## Features
 
@@ -12,7 +12,7 @@ A clean, modern web application for tracking your daily water intake. Try the li
 
 ## Try It Out!
 
-1. Visit [your-vercel-url-here]
+1. Visit [https://water-tracker-db.vercel.app/]
 2. Create an account or sign in
 3. Start tracking your water intake!
 
@@ -20,7 +20,7 @@ Your data is private and secure - each user can only see and manage their own wa
 
 ## Live Demo
 
-[View Live Demo](#) <!-- Add your deployed version link here -->
+[https://water-tracker-db.vercel.app/](#) <!-- Add your deployed version link here -->
 
 ## Quick Start
 
@@ -102,6 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Liam Dwight
 
 Project Link: [https://github.com/yourusername/water-tracker-supabase](https://github.com/yourusername/water-tracker-supabase)
